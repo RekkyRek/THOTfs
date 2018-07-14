@@ -1,0 +1,22 @@
+{
+  "name": "thotfs",
+  "version": "1.0.0",
+  "description": "A smaller JSON.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rekkyrek/thotfs.git"
+  },
+  "author": "RekkyRek",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/rekkyrek/thotfs/issues"
+  },
+  "homepage": "https://github.com/rekkyrek/thotfs#readme",
+  "dependencies": {
+    "@thi.ng/bitstream": "^0.4.13"
+  }
+}
