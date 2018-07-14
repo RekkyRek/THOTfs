@@ -1,5 +1,8 @@
 # THOTfs - A smaller JSON.
 
+## Goals
+Store JSON in a smaller format using fewer bits to descriminate data and use Huffman coding to store strings in less bytes than unicode, ASCII, etc.
+
 ## Bits
 |Bits | Meaning      |
 |-----|--------------|
